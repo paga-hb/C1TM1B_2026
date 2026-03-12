@@ -1,11 +1,11 @@
 # Applied Machine Learning (C1TM1B) Spring 2026
 This is the repository for the Applied Machine Learning (Spring 2026) course at Borås University
 
-The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?sprak=EN&forklaringar=true&sokMedAND=true&intervallAntal=12&startDatum=2026-03-30&intervallTyp=a&resurser=k.C1TM1B-20261-I15V6-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/xxxxx).
+The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?sprak=EN&forklaringar=true&sokMedAND=true&intervallAntal=12&startDatum=2026-03-30&intervallTyp=a&resurser=k.C1TM1B-20261-I15V6-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/11154).
 
-## Delopment Environment Setup
+## Development Environment Setup
 
-First, make sure you have installed Visual Studio Code, Git, and Miniconda on your computer.
+First, make sure you have installed Visual Studio Code, Git, Miniconda and Graphviz on your computer.
 
 ### Software
 
