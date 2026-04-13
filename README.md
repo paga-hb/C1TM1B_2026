@@ -47,6 +47,7 @@ When you have installed the software above, open a terminal and clone the GitHub
 - `conda activate ./.conda`
 - `python -m pip install --upgrade pip`
 - `pip install ipykernel jupyter numpy pandas matplotlib pydot scikit-learn tensorflow keras_tuner`
+- `python -m pip install --force-reinstall "setuptools<82" tensorboard`
 
 ## Open the Notebook for Workshop 3
 
